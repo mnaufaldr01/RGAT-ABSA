@@ -5,3 +5,4 @@ python prepare_vocab.py --data_dir dataset/$setting/Restaurants --vocab_dir data
 python prepare_vocab.py --data_dir dataset/$setting/Laptops --vocab_dir dataset/$setting/Laptops
 python prepare_vocab.py --data_dir dataset/$setting/Tweets --vocab_dir dataset/$setting/Tweets
 python prepare_vocab.py --data_dir dataset/$setting/MAMS --vocab_dir dataset/$setting/MAMS
+python prepare_vocab.py --data_dir dataset/$setting/SemEval-17-Tweets --vocab_dir dataset/$setting/SemEval-17-Tweets
